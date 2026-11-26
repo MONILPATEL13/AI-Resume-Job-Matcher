@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+# never upload real resumes
+*.pdf
+!sample_data/resume.pdf
