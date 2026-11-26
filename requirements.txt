@@ -1,0 +1,6 @@
+pdfplumber
+scikit-learn
+streamlit
+reportlab
+# optional, large download, only for the "embeddings" method:
+# sentence-transformers

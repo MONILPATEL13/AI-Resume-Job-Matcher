@@ -1,0 +1,4 @@
+Junior AI Engineer (sample job description)
+We need a fresher who knows Python and builds LLM applications.
+Required: Python, NLP, RAG, FAISS, Git, Streamlit, Docker.
+You will create chatbot and document search features.
